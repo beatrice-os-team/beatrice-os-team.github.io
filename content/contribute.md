@@ -42,7 +42,6 @@ cd Blog
 {{< filetree/container >}}
   {{< filetree/folder name="content" >}}
     {{< filetree/folder name="assets" state="closed" >}}
-      {{< filetree/file name="logo_ascii.txt" >}}
       {{< filetree/file name="logo.png" >}}
     {{< /filetree/folder >}}
     {{< filetree/file name="_index.md" >}}
@@ -63,7 +62,6 @@ hugo new [<parent_folder>/]<page_name>.md
 {{< filetree/container >}}
   {{< filetree/folder name="content" >}}
     {{< filetree/folder name="assets" state="closed" >}}
-      {{< filetree/file name="logo_ascii.txt" >}}
       {{< filetree/file name="logo.png" >}}
     {{< /filetree/folder >}}
     {{< filetree/file name="_index.md" >}}
