@@ -1,17 +1,11 @@
 ---
-title: My Site
+title: 某科学的超 OS 队
 toc: false
 ---
 
-This is the landing page.
-
-## Explore
+## 杂项
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="about" title="关于" icon="user" >}}
+  {{< card link="contribute" title="贡献指南" icon="search" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
