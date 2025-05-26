@@ -1,5 +1,5 @@
 ---
-title: Kawaii Chip Team
+title: 某科学的超 OS 队
 type: about
 comments: false
 ---
