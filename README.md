@@ -1,6 +1,6 @@
-# 某科学的超 OS 队's Blog
+# 翠碧丝的 OS 魔典队's Blog
 
-[![Deploy Hugo site to Pages](https://github.com/super-os-shoujo/super-os-shoujo.github.io/actions/workflows/pages.yaml/badge.svg)](https://github.com/super-os-shoujo/super-os-shoujo.github.io/actions/workflows/pages.yaml)
+[![Deploy Hugo site to Pages](https://github.com/beatrice-os-team/beatrice-os-team.github.io/actions/workflows/pages.yaml/badge.svg)](https://github.com/beatrice-os-team/beatrice-os-team.github.io/actions/workflows/pages.yaml)
 
 ## Info
 

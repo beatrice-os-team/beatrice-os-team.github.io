@@ -1,5 +1,5 @@
 ---
-title: 某科学的超 OS 队
+title: 翠碧丝的 OS 魔典队
 toc: false
 ---
 
