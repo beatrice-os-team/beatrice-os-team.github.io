@@ -39,7 +39,7 @@ int test(int a) {
 
 EMSCRIPTEN_KEEPALIVE
 int test(int a) {
-	printf("Hello, World!\n");
+	printf("Hello, world!\n");
 	return a;
 }
 ```
