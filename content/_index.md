@@ -3,6 +3,12 @@ title: 翠碧丝的 OS 魔典队
 toc: false
 ---
 
+## 文档
+
+{{< cards >}}
+  {{< card link="docs" title="文档" icon="document-text" >}}
+{{< /cards >}}
+
 ## 杂项
 
 {{< cards >}}
