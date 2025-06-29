@@ -7,3 +7,7 @@ comments: false
 
 记录前端开发过程的重要细节。
 
+{{< cards >}}
+  {{< card link="run-wasm" title="运行 WebAssembly" icon="code" >}}
+  {{< card link="live-code-platform" title="Live Code Platform" icon="book-open" >}}
+{{< /cards >}}
