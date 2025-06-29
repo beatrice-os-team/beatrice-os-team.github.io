@@ -31,7 +31,7 @@ weight: 3
 
 ## 执行 Losu 编译器的函数
 
-[editor.js](https://github.com/beatrice-os-team/live-code-platform/blob/main/www/assets/js/editor.js) 文件中的 `editor_run` 函数：
+[editor.js](https://github.com/beatrice-os-team/live-code-platform/blob/main/www/assets/js/editor.js#L53-L64) 文件中的 `editor_run` 函数：
 
 ```javascript
 let losu = await LosuLiveCode({
